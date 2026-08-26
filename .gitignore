@@ -12,7 +12,6 @@ output/
 # Local configuration and instructions
 .idea/
 .vs/
-
 # IDE and local tooling
 *.user
 Thumbs.db
