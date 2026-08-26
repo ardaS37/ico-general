@@ -9,10 +9,24 @@ output/
 # Packaged binaries
 *.exe
 
-# IDE and local tooling
+# Local AI assistant configuration and instructions
 .idea/
 .vs/
 .codex/
+.claude/
+.cursor/
+.windsurf/
+.continue/
+.aider/
+.roo/
+.opencode/
+.gemini/
+.qodo/
 AGENTS.md
+CLAUDE.md
+GEMINI.md
+.aider*
+
+# IDE and local tooling
 *.user
 Thumbs.db
