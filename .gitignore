@@ -30,3 +30,34 @@ GEMINI.md
 # IDE and local tooling
 *.user
 Thumbs.db
+
+# Additional reusable project hygiene
+.vscode/
+.amazonq/
+.cody/
+.tabnine/
+*.p12
+*.mobileprovision
+secrets/
+credentials/
+*.log
+logs/
+tmp/
+temp/
+.cache/
+coverage/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+.venv/
+venv/
+env/
+*.egg-info/
+.eggs/
+.DS_Store
+Desktop.ini
+*~
+*.swp
+*.swo
