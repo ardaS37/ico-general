@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.spec.bak
+build/
+dist/
+output/
+
+# Packaged binaries
+*.exe
+
+# IDE and local tooling
+.idea/
+.vs/
+.codex/
+AGENTS.md
+*.user
+Thumbs.db
